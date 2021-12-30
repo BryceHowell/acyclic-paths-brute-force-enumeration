@@ -1,6 +1,6 @@
 # acyclic-paths-brute-force-enumeration
 A module that does nothing but count acyclic paths on a grid (./paths &lt;length>)
-The module counts the number of ways you may move on a grid without revisiting a spot you've been before.
+The module counts the number of ways you may move on a grid without revisiting a spot you've been to before.
 
 # compiling
 > $ gcc -o acyclic acyclic.c
